@@ -92,6 +92,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>spring-oracle</finalName>
 	</build>
 
 </project>
